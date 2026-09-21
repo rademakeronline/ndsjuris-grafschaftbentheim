@@ -1,0 +1,120 @@
+---
+document_id: DE-NI-NOH-GEMEINDE-OSTERWALD-ENTSCHAEDIGUNGSSATZUNG
+title: Entschädigungssatzung der Gemeinde Osterwald
+document_type: satzung
+version_kind: base_version
+issuer: Gemeinde Osterwald
+issuer_type: municipality
+parent_municipality: Samtgemeinde Neuenhaus
+district: Landkreis Grafschaft Bentheim
+state: Niedersachsen
+country: Deutschland
+valid_from: '2025-01-01'
+status: current
+source_provider: Gemeinde Osterwald
+source_url: https://www.neuenhaus.de/start/pdfs/aktuelles/amtsblatt/2025/amtsblatt-06-2025.pdf?cid=3as
+source_index_url: https://www.neuenhaus.de/start/samtgemeinde/rat-politik/ortsrecht/
+promulgation_url: https://www.neuenhaus.de/start/pdfs/aktuelles/amtsblatt/2025/amtsblatt-06-2025.pdf?cid=3as
+source_format: pdf
+source_sha256: f5178689e5c360dc552fa988a65afbd2529ec41491ded183c2687fcae1dfb7c4
+has_graphical_attachments: false
+source_pages:
+- 11
+- 12
+- 13
+---
+
+# Entschädigungssatzung der Gemeinde Osterwald
+
+> Nichtamtliche Markdown-Aufbereitung. Maßgeblich ist die amtlich bekanntgemachte Fassung.
+
+4\. Satzung über die Entschädigungen für Ratsmitglieder in der Ge-<br>meinde Osterwald (Entschädigungssatzung) vom 01.04.2025
+
+Aufgrund der §§ 10 und 55 des Nieders. Kommunalverfassungsgesetzes (NKomVG)<br>vom 17.12.2010 (Nds. GVBl. S. 576) zuletzt geändert durch Artikel 2 des Gesetzes<br>27.03.2019 (Nds. GVBl. S. 70) hat der Rat der Gemeinde Osterwald am 01.04.2025<br>folgende Satzung beschlossen:
+
+## §1
+
+Allgemeines
+
+(7)   Die Ratsmitglieder der Gemeinde Osterwald erhalten Aufwands-, Verdienstaus-<br>fall- und Fahrkostenentschädigung sowie Reisekostenvergütung nach Maßgabe<br>dieser Satzung.
+
+(8)   Mandatsausübung im Sinne dieser Satzung ist die Teilnahme an Rats- und Aus-<br>schusssitzungen sowie die Teilnahme an Besprechungen, Besichtigungen, Emp-<br>fängen und Veranstaltungen zu denen Vertreter des Rates eingeladen werden,<br>sofern die Teilnahme vom Rat genehmigt worden ist.
+
+## §2
+
+Aufwandsentschädigung
+
+(7)   Die Aufwandsentschädigung umfasst den Ersatz der notwendigen Auslagen mit<br>Ausnahme der Fahrkosten sowie Telefonkosten.
+
+(8)   Die Ratsmitglieder erhalten eine Monatspauschale. Die Monatspauschale beträgt<br>50,00 € und wird unbeschadet des § 8 auch für den ganzen Kalendermonat ge-<br>währt, wenn die Mitgliedschaft innerhalb eines Monats beginnt oder endet.
+
+Das Sitzungsgeld beträgt 40,00 € für die Mandatsausübung im Sinne des § 1<br>Abs. 2 dieser Satzung.
+
+## §3
+
+Aufwandsentschädigungen für besondere Funktionsträger
+
+Neben der Aufwandsentschädigung aus § 2 werden monatlich folgende zusätzliche<br>Aufwandsentschädigungen gezahlt:
+
+<pre>          j) an den/die Bürgermeister/-in                 500,00 €
+             Telefonkosten                                 30,00 €
+          k) an den/die 1. stellv. Bürgermeister/-in      100,00 €
+          l) an den/die 2. stellv. Bürgermeister/-in      100,00 €</pre>
+
+m) an den/die 3. stellv. Bürgermeister/-in        100,00 €
+
+## §4
+
+Verdienstausfallentschädigung
+
+(16)      Ratsmitglieder und nicht dem Rat angehörende Ausschussmitglieder ha-<br>ben Anspruch auf Ersatz der durch die Mandatsausübung bedingten finanziel-<br>len, beruflichen oder häuslichen Nachteile im Rahmen der nachfolgenden Best-<br>immungen.
+
+(17)      Berechtigte, die unselbständig tätig sind, erhalten den nachgewiesenen<br>Verdienstausfall bis zum Höchstbetrag von 28,00 € für jede angefangene<br>Stunde. Der Verdienstausfall ist im Einvernehmen mit dem Berechtigten und<br>dem Arbeitgeber in der Weise auszugleichen, dass der Arbeitgeber das Arbeits-<br>entgelt für die Ausfallzeiten weiterzahlt, die Abgaben und Sozialversicherungs-<br>beiträge abführt und sich den Bruttobetrag von der Gemeinde erstatten lässt.
+
+Soweit ein Rechtsanspruch auf Weiterzahlung des Arbeitsentgeltes für die Zeit<br>der Mandatsausübung besteht, geht dieser Anspruch dem Anspruch auf Zah-<br>lung von Verdienstausfall vor.
+
+(18)      Berechtigte, selbstständig Tätiger, wird auf Anfrage eine Verdienstaus-<br>fallpauschale gewährt, die im Einzelfall auf der Grundlage des glaubhaft ge-<br>machten Einkommens festgesetzt wird. Der Höchstbetrag der Verdienstausfall-<br>pauschale beträgt 28,00 € je Stunde, höchstens jedoch für 6 Stunden je Tag.<br>Das Einkommen ist durch Vorlage des letzten Einkommensteuerbescheides o-<br>der einer entsprechenden Bescheinigung des Steuerberaters nachzuweisen.
+
+(19)     Berechtigte, die keine Ersatzansprüche nach den Absätzen 2 und 3 gel-<br>tend machen können, denen aber im beruflichen oder häuslichen Bereich ein<br>Nachteil entsteht, der in der Regel nur durch das Nachholen versäumter Arbeit<br>oder die Inanspruchnahme einer Hilfskraft ausgeglichen werden kann, erhalten<br>einen Pauschalsatz in Höhe des aktuell geltenden Mindestlohnes für jede an-<br>gefangene Stunde.
+
+(20)      Für die Zeit vor 8:00 Uhr sowie nach 18:00 Uhr wird keine Verdienstaus-<br>fallentschädigung gezahlt. Das gilt nicht bei nachgewiesener Schichtarbeit.
+
+## §5
+
+Fahrkostenentschädigung
+
+<pre>Für Fahrten innerhalb der Gemeinde Osterwald werden dem/der
+Bürgermeister/-in                    monatlich 65,00 €
+den übrigen Ratsmitgliedern          monatlich 13,00 €
+gezahlt.</pre>
+
+## §6
+
+Reisekostenvergütung
+
+Bei einer auf Anordnung der Gemeinde von einem Ratsmitglied außerhalb des Ge-<br>meindegebietes durchgeführten Dienstreise erhalten diese Reisekosten nach Stufe B<br>und ggf. Wegstrecken- und Mitnahmeentschädigung nach den Bestimmungen des<br>Bundesreisekostengesetzes.
+
+## §7
+
+Zahlungsbestimmungen
+
+Soweit gesetzlich nichts anderes bestimmt ist, werden die nach dieser Satzung fest-<br>zusetzenden Entschädigungen monatlich nachträglich gezahlt.
+
+## §8
+
+Ruhen von Entschädigungsansprüchen
+
+Der Anspruch auf Entschädigung entfällt für die Zeit des Ruhens der Mitgliedschaft im<br>Rat (§ 53 NKomVG) und für die Dauer eines Ausschlusses.
+
+## §9
+
+Inkrafttreten
+
+Diese Satzung tritt rückwirkend zum 01. Januar 2025 in Kraft. Gleichzeitig tritt die Ent-<br>schädigungssatzung der Gemeinde Osterwald vom 08. November 2022 außer Kraft.
+
+Osterwald, den 01.04.2025
+
+Gemeinde Osterwald
+
+<pre>             gez. Brookman                        gez. Koel
+             Bürgermeisterin                 1. stellv. Bürgermeister</pre>
