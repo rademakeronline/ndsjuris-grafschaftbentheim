@@ -299,6 +299,7 @@ Nichtamtliche Aufbereitung; maßgeblich sind die verlinkten Originalquellen.
 - [Entschädigungssatzung der Samtgemeinde Schüttorf](samtgemeinden/schuettorf/samtgemeinde/entschaedigungssatzung.md)
 - [Feuerwehr-Entschädigungssatzung der Samtgemeinde Schüttorf](samtgemeinden/schuettorf/samtgemeinde/feuerwehr-entschaedigungssatzung.md)
 - [Geschäftsordnung der Samtgemeinde Schüttorf](samtgemeinden/schuettorf/samtgemeinde/geschaeftsordnung.md)
+- [Hauptsatzung der Samtgemeinde Schüttorf](samtgemeinden/schuettorf/samtgemeinde/hauptsatzung.md)
 - [Richtlinie über die Bildung und Tätigkeit des Seniorenbeirates der Samtgemeinde Schüttorf](samtgemeinden/schuettorf/samtgemeinde/seniorenbeirat-richtlinie.md)
 - [Richtlinien über die Bildung und Tätigkeit des Beirates für Menschen mit Behinderungen der Samtgemeinde Schüttorf](samtgemeinden/schuettorf/samtgemeinde/behindertenbeirat-richtlinie.md)
 - [Satzung über die Festlegung von Schulbezirken der Samtgemeinde Schüttorf](samtgemeinden/schuettorf/samtgemeinde/schulbezirkssatzung.md)
@@ -334,6 +335,7 @@ Nichtamtliche Aufbereitung; maßgeblich sind die verlinkten Originalquellen.
 ## Gemeinde Ohne
 
 - [Geschäftsordnung der Gemeinde Ohne](samtgemeinden/schuettorf/mitgliedsgemeinden/ohne/geschaeftsordnung.md)
+- [Hauptsatzung der Gemeinde Ohne](samtgemeinden/schuettorf/mitgliedsgemeinden/ohne/hauptsatzung.md)
 - [Wahlwerbungssatzung der Gemeinde Ohne](samtgemeinden/schuettorf/mitgliedsgemeinden/ohne/wahlwerbungssatzung.md)
 
 ## Gemeinde Quendorf
