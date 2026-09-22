@@ -345,32 +345,45 @@ Nichtamtliche Aufbereitung; maßgeblich sind die verlinkten Originalquellen.
 
 ## Samtgemeinde Uelsen
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Aufwandsentschädigungssatzung der Samtgemeinde Uelsen](samtgemeinden/uelsen/samtgemeinde/entschaedigungssatzung.md)
+- [Hauptsatzung der Samtgemeinde Uelsen](samtgemeinden/uelsen/samtgemeinde/hauptsatzung.md)
+- [Satzung für die Freiwillige Feuerwehr in der Samtgemeinde Uelsen](samtgemeinden/uelsen/samtgemeinde/feuerwehrsatzung.md)
+- [Satzung über die Erhebung von Kostenersatz und Gebühren für Dienst- und Sachleistungen der Freiwilligen Feuerwehr der Samtgemeinde Uelsen außerhalb der unentgeltlich zu erfüllenden Pflichtaufgaben](samtgemeinden/uelsen/samtgemeinde/feuerwehrgebuehrensatzung.md)
 
 ## Gemeinde Getelo
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Hauptsatzung der Gemeinde Getelo, Landkreis Grafschaft Bentheim](samtgemeinden/uelsen/mitgliedsgemeinden/getelo/hauptsatzung.md)
+- [Satzung über die Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) der Gemeinde Getelo](samtgemeinden/uelsen/mitgliedsgemeinden/getelo/hebesatzsatzung.md)
 
 ## Gemeinde Gölenkamp
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Hauptsatzung der Gemeinde Gölenkamp, Landkreis Grafschaft Bentheim](samtgemeinden/uelsen/mitgliedsgemeinden/goelenkamp/hauptsatzung.md)
+- [Satzung über Aufwands-, Verdienstausfall- und Auslagenentschädigung, Fahrt- und Reisekosten für Gemeinderatsmitglieder und ehrenamtlich tätige Personen in der Gemeinde Gölenkamp](samtgemeinden/uelsen/mitgliedsgemeinden/goelenkamp/entschaedigungssatzung.md)
+- [Satzung über die Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) der Gemeinde Gölenkamp](samtgemeinden/uelsen/mitgliedsgemeinden/goelenkamp/hebesatzsatzung.md)
 
 ## Gemeinde Halle
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Hauptsatzung der Gemeinde Halle, Landkreis Grafschaft Bentheim](samtgemeinden/uelsen/mitgliedsgemeinden/halle/hauptsatzung.md)
+- [Satzung über die Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) der Gemeinde Halle](samtgemeinden/uelsen/mitgliedsgemeinden/halle/hebesatzsatzung.md)
 
 ## Gemeinde Itterbeck
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Hauptsatzung der Gemeinde Itterbeck, Landkreis Grafschaft Bentheim](samtgemeinden/uelsen/mitgliedsgemeinden/itterbeck/hauptsatzung.md)
+- [Satzung über die Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) der Gemeinde Itterbeck](samtgemeinden/uelsen/mitgliedsgemeinden/itterbeck/hebesatzsatzung.md)
 
 ## Gemeinde Uelsen
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Aufwandsentschädigungssatzung der Gemeinde Uelsen](samtgemeinden/uelsen/mitgliedsgemeinden/uelsen/entschaedigungssatzung.md)
+- [Hauptsatzung der Gemeinde Uelsen, Landkreis Grafschaft Bentheim](samtgemeinden/uelsen/mitgliedsgemeinden/uelsen/hauptsatzung.md)
+- [Satzung über die Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) der Gemeinde Uelsen](samtgemeinden/uelsen/mitgliedsgemeinden/uelsen/hebesatzsatzung.md)
 
 ## Gemeinde Wielen
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Hauptsatzung der Gemeinde Wielen, Landkreis Grafschaft Bentheim](samtgemeinden/uelsen/mitgliedsgemeinden/wielen/hauptsatzung.md)
+- [Satzung über die Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) der Gemeinde Wielen](samtgemeinden/uelsen/mitgliedsgemeinden/wielen/hebesatzsatzung.md)
 
 ## Gemeinde Wilsum
 
-Noch keine automatisch freigegebenen Dokumente veröffentlicht.
+- [Friedhofsordnung für den Friedhof der Gemeinde Wilsum](samtgemeinden/uelsen/mitgliedsgemeinden/wilsum/friedhofsordnung.md)
+- [Hauptsatzung der Gemeinde Wilsum, Landkreis Grafschaft Bentheim](samtgemeinden/uelsen/mitgliedsgemeinden/wilsum/hauptsatzung.md)
+- [Satzung über die Festsetzung der Hebesätze für die Realsteuern (Hebesatzsatzung) der Gemeinde Wilsum](samtgemeinden/uelsen/mitgliedsgemeinden/wilsum/hebesatzsatzung.md)
