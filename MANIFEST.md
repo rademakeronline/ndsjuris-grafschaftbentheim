@@ -249,6 +249,7 @@ Nichtamtliche Aufbereitung; maßgeblich sind die verlinkten Originalquellen.
 
 ## Samtgemeinde Neuenhaus
 
+- [Entschädigungssatzung für Ratsfrauen und Ratsherren](samtgemeinden/neuenhaus/samtgemeinde/entschaedigungssatzung-fuer-ratsfrauen-und-ratsherren.md)
 - [Feuerwehr: Entschädigungssatzung](samtgemeinden/neuenhaus/samtgemeinde/feuerwehr-entschaedigungssatzung.md)
 - [Ladenschluss: Verordnung über die Freigabe von bestimmten Verkaufssonntagen](samtgemeinden/neuenhaus/samtgemeinde/ladenschluss-verordnung-ueber-die-freigabe-von-bestimmten-verkaufssonntagen.md)
 - [Schulen: Benutzungsordnung für Schulhöfe](samtgemeinden/neuenhaus/samtgemeinde/schulen-benutzungsordnung-fuer-schulhoefe.md)
@@ -259,6 +260,7 @@ Nichtamtliche Aufbereitung; maßgeblich sind die verlinkten Originalquellen.
 
 ## Stadt Neuenhaus
 
+- [Entschädigungssatzung für Ratsfrauen und Ratsherren](samtgemeinden/neuenhaus/mitgliedsgemeinden/neuenhaus/entschaedigungssatzung-fuer-ratsfrauen-und-ratsherren.md)
 - [Erschließungsbeitragssatzung](samtgemeinden/neuenhaus/mitgliedsgemeinden/neuenhaus/erschliessungsbeitragssatzung.md)
 - [Hebesatzsatzung](samtgemeinden/neuenhaus/mitgliedsgemeinden/neuenhaus/hebesatzsatzung.md)
 - [Verfahrenssatzung für die Durchführung von Einwohneranträgen, Bürgerbegehren, Bürgerentscheiden und Bürgerbefragungen](samtgemeinden/neuenhaus/mitgliedsgemeinden/neuenhaus/verfahrenssatzung-fuer-die-durchfuehrung-von-einwohnerantraegen-buergerbegehren-8db1c485.md)
