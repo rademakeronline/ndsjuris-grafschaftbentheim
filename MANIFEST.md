@@ -29,6 +29,7 @@ Nichtamtliche Aufbereitung; maßgeblich sind die verlinkten Originalquellen.
 - [Verordnung über das Naturschutzgebiet Tillenberge (NSG WE 009)](landkreis/verordnung-ueber-das-naturschutzgebiet-tillenberge-nsg-we-009.md)
 - [Verordnung über die Festsetzung des Überschwemmungsgebietes der Vechte](landkreis/verordnung-ueber-die-festsetzung-des-ueberschwemmungsgebietes-der-vechte.md)
 - [Verordnung über die Unterhaltung und Schau der Gewässer 3. Ordnung](landkreis/verordnung-ueber-die-unterhaltung-und-schau-der-gewaesser-3-ordnung.md)
+- [Waldbrandverordnung für das Gebiet des Landkreises Grafschaft Bentheim](landkreis/waldbrandverordnung.md)
 
 ## Stadt Bad Bentheim
 
